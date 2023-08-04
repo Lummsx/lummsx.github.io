@@ -1,8 +1,10 @@
 # Erik Gonzalez - Portfolio
 
 * [Linked-In](https://www.linkedin.com/in/gonzalez-erik/)
+
 * [GitHub](https://github.com/Lummsx)
-Email - lummsx@gmail.com
+
+* Email - lummsx@gmail.com
 
 ## Analytics Portfolio
 
