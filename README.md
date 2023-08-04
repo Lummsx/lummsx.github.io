@@ -1,5 +1,10 @@
 # Erik Gonzalez - Portfolio
-Analytics Portfolio
+
+[Linked-In](https://www.linkedin.com/in/gonzalez-erik/)
+[GitHub](https://github.com/Lummsx)
+Email - lummsx@gmail.com
+
+## Analytics Portfolio
 
 # [Project 1: Bellabeat Data Analysis - How can a wellness company play it smart?](https://github.com/Lummsx/EG-Capstone-Project)
 
