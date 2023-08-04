@@ -11,4 +11,4 @@ This is a project I completed during my time with Merit America through the Data
 * Suggested additional marketing strategies to further enchance user experience, and as well as methods for further data gathering for more concrete and detailed analysis in the future.
 
 ## Over Of Total Steps vs. Total Minutes Asleep
-![]()
+![](images/rstudio_J7lhSRsAg4.png)
